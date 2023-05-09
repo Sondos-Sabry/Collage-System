@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon login.js"
+    "page": "nodemon login.js"
   },
   "keywords": [],
   "author": "",
