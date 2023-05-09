@@ -89,8 +89,14 @@ padding-bottom: 50px;
     box-shadow: 1px 1px 3px 3px #daa87bb0;
     background-color: #200d0d;
 }
-.sec3 h1{
+@media (max-width : 773px){
+    .cards {
+    margin-right:80px ;
+    
+}}
+.cards .sec3 h1{
     padding-bottom: 20px;
+
 }
 .sec3 p{
     font-family: 'Merriweather', serif;
